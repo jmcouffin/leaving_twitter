@@ -6,4 +6,8 @@ heavily based on https://github.com/twitterdev/Twitter-API-v2-sample-code/blob/0
 - added csv writer 
 - pagination
 
-jean-marc couffin, 2022
+# usage
+
+- add your twitter Bearer Token: https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens
+- bring in your user_id, easily done through https://tweeterid.com/
+- comment or uncomment lines 13/14 and 21/22 depending on whether you are grabbing the following list or the followers
